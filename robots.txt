@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dearhospi.github.io/portfolio/sitemap.xml
+Host: https://dearhospi.github.io/portfolio/
